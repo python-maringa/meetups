@@ -12,7 +12,7 @@ Foram apresentadas duas palestras nessa primeira edição, com ótimos conteúdo
 ### Utilizando Python para criar Comic Books
 Primeiramente o @JFTavares da [Booknando](http://booknando.com.br), e também organizador deste meetup, apresentou uma talk muito interessante sobre como utilizar o Python para criar Comic Books, fazendo uma relação ao modelo de aprendizado do ser humano através da visão da Andragogia.
 
-Os slides do José estão disponíveis em: [Link Slideshare](http://bit.ly/2KnpoOK)
+Os slides do José estão disponíveis em: [Link Slideshare](http://bit.ly/2KnpoOK) | [Slides em PDF](https://github.com/python-maringa/meetups/blob/eventos/eventos/2019-08-08_1-python-meetup/comic-books-pyton.pdf)
 
 Também um repositório para que você possa interagir com os códigos apresentados e fazer seu próprio quadrinho/comic book utilizando Python: [https://github.com/JFTavares/Booknando_comic_creator](https://github.com/JFTavares/Booknando_comic_creator)
 
@@ -20,7 +20,7 @@ Também um repositório para que você possa interagir com os códigos apresenta
 ### Serveless Thumbor, um case de otimização
 Em seguida o @geovanisouza92 apresentou um case que foi aplicado na empresa em que trabalha, a [gupy.io](gupy.io), para otimizar o carregamento de uma página de candidatos utilizando o Thumbor.
 
-Os slides do Geovani estão disponíveis em: [Link Google Slides](https://docs.google.com/presentation/d/11FrzgmmPeQGDD2mxFZjO1F4bDYBvk7LiIm67Xya8ZJI/edit)
+Os slides do Geovani estão disponíveis em: [Link Google Slides](https://docs.google.com/presentation/d/11FrzgmmPeQGDD2mxFZjO1F4bDYBvk7LiIm67Xya8ZJI/edit) | [Slides em PDF](https://github.com/python-maringa/meetups/blob/eventos/eventos/2019-08-08_1-python-meetup/Serverless%20Thumbor.pdf)
 
 Caso queira saber mais sobre a tecnologia utilizada o Thumbor é um projeto open-source e você pode acessar o repositório aqui: [https://github.com/thumbor/thumbor](https://github.com/thumbor/thumbor)
 

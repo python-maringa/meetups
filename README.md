@@ -4,7 +4,7 @@ Este repositório é dedicado aos conteúdos dos meetups realizados com a comuni
 Após a realização dos eventos iremos adicionar aqui as referências e quando possível os conteúdos apresentados pelos palestrantes.
 
 ## Eventos anteriores
-Para acessar os conteúdos apresentados nos eventos anteriores, [acesse aqui](https://github.com/python-maringa/meetups/eventos/eventos.md), ou a pasta de eventos do repositório.
+Para acessar os conteúdos apresentados nos eventos anteriores, [acesse aqui](https://github.com/python-maringa/meetups/blob/eventos/eventos/eventos.md), ou a pasta de eventos do repositório.
 
 ## Submeta uma talk
 Quer participar do Python Maringá compartilhando conteúdo com a comunidade, submeta uma talk no link abaixo.
